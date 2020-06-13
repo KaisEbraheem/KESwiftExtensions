@@ -16,6 +16,7 @@
 		7496C8266D112A30AA7DE3608D808ADB /* KESwiftExtensions-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 907925AC708D1D15EC48CE620055BA18 /* KESwiftExtensions-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7DB40D54C50064B7CD477776382B975C /* KESwiftExtensions-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 977DB1991AE71677255B20E96EB6015B /* KESwiftExtensions-dummy.m */; };
 		B42545D424947B9A0027F6FB /* UIImageViewExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = B42545D324947B9A0027F6FB /* UIImageViewExtensions.swift */; };
+		B42545D824948FE80027F6FB /* KEStringExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = B42545D724948FE80027F6FB /* KEStringExtensions.swift */; };
 		ED14AC2C87B44804A28FE0EB47BED801 /* Pods-KESwiftExtensions_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 52A603B43D908A378CEF88474F13BF07 /* Pods-KESwiftExtensions_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
@@ -57,6 +58,7 @@
 		A0F0CDA538F74A5CBA0C993322DF4541 /* Pods-KESwiftExtensions_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-KESwiftExtensions_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		ADF09081DD8A1D47209B2C0E0B91BDE1 /* Pods-KESwiftExtensions_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-KESwiftExtensions_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		B42545D324947B9A0027F6FB /* UIImageViewExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = UIImageViewExtensions.swift; path = KESwiftExtensions/Classes/UIImageViewExtensions.swift; sourceTree = "<group>"; };
+		B42545D724948FE80027F6FB /* KEStringExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = KEStringExtensions.swift; path = KESwiftExtensions/Classes/KEStringExtensions.swift; sourceTree = "<group>"; };
 		B4321D1E20456CEFB7FF527BF9AA03FF /* Pods-KESwiftExtensions_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-KESwiftExtensions_Tests.modulemap"; sourceTree = "<group>"; };
 		B7694DFCDCD6368AD95E467941B89958 /* Pods-KESwiftExtensions_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-KESwiftExtensions_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		C32E008577C6E12708DDE8B44FF23DD6 /* KESwiftExtensions.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = KESwiftExtensions.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -212,6 +214,7 @@
 				ED4640946C044A2E9C1615B6F7362846 /* Pod */,
 				093E25ABB9F2B1B28E95458FAFE4E2F4 /* Support Files */,
 				B42545D324947B9A0027F6FB /* UIImageViewExtensions.swift */,
+				B42545D724948FE80027F6FB /* KEStringExtensions.swift */,
 			);
 			name = KESwiftExtensions;
 			path = ../..;
@@ -385,6 +388,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B42545D424947B9A0027F6FB /* UIImageViewExtensions.swift in Sources */,
+				B42545D824948FE80027F6FB /* KEStringExtensions.swift in Sources */,
 				7DB40D54C50064B7CD477776382B975C /* KESwiftExtensions-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
