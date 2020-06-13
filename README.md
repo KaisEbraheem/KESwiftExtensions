@@ -1,6 +1,6 @@
 # KESwiftExtensions
 
-[![CI Status](https://img.shields.io/travis/Kais Ebraheem/KESwiftExtensions.svg?style=flat)](https://travis-ci.org/Kais Ebraheem/KESwiftExtensions)
+[![CI Status](https://img.shields.io/travis/Kais Ebraheem/KESwiftExtensions.svg?style=flat)](https://travis-ci.org/KaisEbraheem/KESwiftExtensions)
 [![Version](https://img.shields.io/cocoapods/v/KESwiftExtensions.svg?style=flat)](https://cocoapods.org/pods/KESwiftExtensions)
 [![License](https://img.shields.io/cocoapods/l/KESwiftExtensions.svg?style=flat)](https://cocoapods.org/pods/KESwiftExtensions)
 [![Platform](https://img.shields.io/cocoapods/p/KESwiftExtensions.svg?style=flat)](https://cocoapods.org/pods/KESwiftExtensions)

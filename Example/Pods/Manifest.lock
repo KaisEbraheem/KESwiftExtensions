@@ -1,0 +1,16 @@
+PODS:
+  - KESwiftExtensions (0.1.0)
+
+DEPENDENCIES:
+  - KESwiftExtensions (from `../`)
+
+EXTERNAL SOURCES:
+  KESwiftExtensions:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  KESwiftExtensions: 3af2d9db588cf0da15b01e44f1a3a6310cf7f055
+
+PODFILE CHECKSUM: 417f31469b11c25aef48e67e7513bcb85f4440af
+
+COCOAPODS: 1.5.3

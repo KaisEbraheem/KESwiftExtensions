@@ -1,0 +1,6 @@
+framework module Pods_KESwiftExtensions_Tests {
+  umbrella header "Pods-KESwiftExtensions_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

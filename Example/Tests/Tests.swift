@@ -25,4 +25,14 @@ class Tests: XCTestCase {
         }
     }
     
+    // MARK: - KESwiftExtensions tests
+    func test_roundViewWidth() {
+        let imageView = UIImageView()
+        imageView.roundViewWith(borderColor: UIColor.red, borderWidth: 3.0)
+        
+        //The message provide description for failure.
+        //To simulate failure, choose incorrect width below, e.g. 2.0
+        XCTAssert(imageView.layer.borderWidth == 3.0, "UIImageView extension roundViewWith: method failed!")
+    }
+    
 }
