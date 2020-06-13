@@ -22,7 +22,7 @@ pod 'KESwiftExtensions'
 
 ## Author
 
-Kais Ebraheem, k_ebraheem@hotmail.com
+Kais Ebraheem, kebraheem@gmail.com
 
 ## License
 
