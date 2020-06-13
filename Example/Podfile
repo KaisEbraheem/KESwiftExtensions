@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'KESwiftExtensions_Example' do
+  pod 'KESwiftExtensions', :path => '../'
+
+  target 'KESwiftExtensions_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
